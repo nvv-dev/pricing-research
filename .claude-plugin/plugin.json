@@ -1,0 +1,16 @@
+{
+  "name": "pricing-research",
+  "version": "0.1.0",
+  "description": "Per product or service: cost floor, competitor range with source and date, value ceiling, and one recommended price with its assumption and a test. Never publishes or changes prices; no tax advice.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/pricing-research",
+  "repository": "https://github.com/nvv-dev/pricing-research",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "growth-workflow"
+  ]
+}
